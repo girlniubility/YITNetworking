@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.dependency 'JGProgressHUD'
   s.dependency 'Masonry'
   s.dependency 'Toast'
-  s.dependency 'Google-Mobile-Ads-SDK'
+  s.dependency 'GoogleUtilities'
   s.dependency 'nanopb'
   s.dependency 'Alert'
   s.requires_arc = true
