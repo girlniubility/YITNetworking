@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.author = {"iris" => "728125282@qq.com"}
   s.platform = :ios, "8.0"
 
-  s.source = { :http => "http://47.103.126.229/project/zip/YITNetworking.zip", :sha1 => "3d5592d796beeb4787ca4c4c6dd8a06eb52e1457" }
+  s.source = { :http => "http://47.103.126.229/project/zip/YITNetworking.zip", :sha1 => "720583658ba12260c607b8d742d8366adff0c238" }
   s.vendored_frameworks = "YITNetworking/YITNetworking.framework"
   s.frameworks = "UIKit"
   s.libraries = "iconv", "resolv"
